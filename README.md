@@ -8,8 +8,9 @@ Voici une proposition complète pour le fichier **README.md** du projet **Assura
 # Assurance
 
 ##  Description
-**Assurance** est une application Java développée avec **NetBeans** (structure Ant) conçue pour gérer des aspects liés aux assurances
-(contrats, clients, sinistres, etc.).Bien que le projet n'inclue pas (pour l'instant) de README, il est structuré avec les dossiers habituels :
+**Assurance** est une application Java développée avec **NetBeans** (structure Ant) conçue pour gérer
+des aspects liés aux assurances(contrats, clients, sinistres, etc.).
+Bien que le projet n'inclue pas (pour l'instant) de README, il est structuré avec les dossiers habituels :
 - `src/assurance` : sources Java
 - `nbproject/`, `build.xml`, `manifest.mf` : fichiers de configuration de l’IDE et de build Ant (NetBeans)
 
