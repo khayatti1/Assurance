@@ -1,5 +1,4 @@
-opp
----
+**README simple et complet** pour le projet **Assurance** :
 
 ````markdown
 # 🛡️ Assurance
@@ -52,5 +51,5 @@ Vous pouvez ajouter une licence (par ex. **MIT** ou **GPL**) dans un fichier `LI
 
 ```
 
----
-
+Veux-tu que je crée aussi une **version avec des badges GitHub (build, langage, licence, etc.)** pour rendre le README encore plus professionnel ?
+```
